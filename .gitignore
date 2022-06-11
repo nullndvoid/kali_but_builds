@@ -1,5 +1,5 @@
 *.o
-*.so
+# *.so
 .vscode/
 .idea/
 *.cbp
@@ -8,7 +8,7 @@ CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
 Makefile
-build_id
+# build_id
 build_id_hex
 build_id_old
 *.id0
